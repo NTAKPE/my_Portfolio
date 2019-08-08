@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Premier équipement automatisé: la moissonneuse tirée par cheval de Cyrus McCormick",
+    "when": 1834
+  },
+  {
+    "name": "Première pelle mécanique : pelle à vapeur Otis",
+    "when": 1835
+  },
+  {
+    "name": "Premier décapeuse : tractée par cheval",
+    "when": 1870
+  },
+  {
+    "name": "Première niveleuse : tractée par cheval",
+    "when": 1885
+  },
+  {
+    "name": "Première utilisation majeure d’une flotte d’équipement alimentée par énergie à vapeur pour le canal de Manchester",
+    "when": 1887
+  },
+  {
+    "name": "Premier moteur à essence et premier moteur de tracteur",
+    "when": 1889
+  },
+  {
+    "name": "Premier moteur diesel",
+    "when": 1892
+  },
+  {
+    "name": "Première trancheuse",
+    "when": 1893
+  },
+  {
+    "name": "Premier tracteur à chenilles",
+    "when": 1906
+  },
+  {
+    "name": "Premier salon des machines de construction de routes: Colombus",
+    "when": "OH"
+  },
+  {
+    "name": "Première ligne de production: modèle T",
+    "when": 1913
+  },
+  {
+    "name": "Première niveleuse automotrice",
+    "when": 1919
+  },
+  {
+    "name": "Premier chargeur frontal: tracteur avec godet monté à l'avant",
+    "when": 1920
+  },
+  {
+    "name": "Première décapeuse automotrice",
+    "when": 1923
+  },
+  {
+    "name": "Premier tombereau articulé et premier tracteur avec remorque",
+    "when": 1940
+  },
+  {
+    "name": "Premier gradall",
+    "when": 1947
+  },
+  {
+    "name": "Première pelle hydraulique montée sur camion",
+    "when": 1948
+  },
+  {
+    "name": "Premier chargeur / tracto-pelle: monté sur tracteur",
+    "when": ""
+  },
+  {
+    "name": "Première pelle hydraulique sur chenilles entièrement rotative",
+    "when": 1954
+  }
+]
